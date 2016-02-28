@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Withme</string>
+    <string name="eventDescription">Описание</string>
+    <string name="eventTimeInfo">Время</string>
+    <string name="eventStartTime">начало:</string>
+    <string name="eventEndTime">конец:</string>
+    <string name="eventPlace">Место встречи</string>
+    <string name="mapLoadText">Получение карты...</string>
+</resources>
